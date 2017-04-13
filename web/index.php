@@ -82,7 +82,7 @@
         
             ?>
     
-            <h2>made with php, hosted on cloud9 <3</h2>
+            <h2>made with php, hosted on heroku <3</h2>
         </div>
     </body>
 </html>
